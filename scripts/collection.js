@@ -20,12 +20,12 @@ var buildCollectionItemTemplate = function() {
 
 
 $(window).load(function() {
-     // #1
+    
      var $collectionContainer = $('.album-covers');
-     // #2
+     
      $collectionContainer.empty();
  
-     // #3
+    
      for (var i = 0; i < 12; i++) {
          var $newThumbnail = buildCollectionItemTemplate();
          $collectionContainer.append($newThumbnail);

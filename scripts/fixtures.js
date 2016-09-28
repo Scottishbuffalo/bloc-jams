@@ -28,17 +28,3 @@ var albumPicasso = {
      ]
  };
 
-var albumDragon = {
-     title: 'The Dragon',
-     artist: 'King Aurther',
-     label: 'Medieval',
-     year: '1242',
-     albumArtUrl: 'assets/images/album_covers/09.png',
-     songs: [
-         { title: 'Hear my roar', duration: '3:23' },
-         { title: 'The Princess is mine', duration: '2:56' },
-         { title: 'Fire Breather', duration: '3:10'},
-         { title: 'Dark Sky', duration: '2:14' },
-         { title: 'Gold Hoard', duration: '1:59'}
-     ]
- };
